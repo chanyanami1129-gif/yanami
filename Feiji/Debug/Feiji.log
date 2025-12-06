@@ -1,0 +1,41 @@
+﻿生成启动时间为 2025/12/7 2:27:40。
+     1>项目“E:\ys\Visual Studio 2010\Projects\Feiji\Feiji\Feiji.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Feiji.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\youxi\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Feiji.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FeijiDlg.cpp feijicontrol.cpp
+         feijicontrol.cpp
+     1>e:\ys\visual studio 2010\projects\feiji\feiji\feijicontrol.cpp(43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ys\visual studio 2010\projects\feiji\feiji\feijicontrol.cpp(44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ys\visual studio 2010\projects\feiji\feiji\feijicontrol.cpp(45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ys\visual studio 2010\projects\feiji\feiji\feijicontrol.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         正在编译...
+         FeijiDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\youxi\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ys\Visual Studio 2010\Projects\Feiji\Debug\Feiji.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Feiji.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\ys\Visual Studio 2010\Projects\Feiji\Debug\Feiji.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ys\Visual Studio 2010\Projects\Feiji\Debug\Feiji.lib" /MACHINE:X86 Debug\Feiji.res
+         Debug\Feiji.exe.embed.manifest.res
+         Debug\Feiji.obj
+         Debug\feijicontrol.obj
+         Debug\FeijiDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Feiji.exe.embed.manifest" /manifest Debug\Feiji.exe.intermediate.manifest d:\youxi\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Feiji.vcxproj -> E:\ys\Visual Studio 2010\Projects\Feiji\Debug\Feiji.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Feiji.unsuccessfulbuild”。
+         正在对“Debug\Feiji.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\ys\Visual Studio 2010\Projects\Feiji\Feiji\Feiji.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.00
